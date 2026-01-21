@@ -75,6 +75,9 @@ int main(void)
     uint32_t tick_ms = 0;
     uint32_t t_oled  = 0;
     uint32_t t_icprt = 0;
+		
+		
+		
 
     while (1)
     {
